@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soft green circle background hint -->
+    <path
+        android:fillColor="#008C45"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- Mobile money / wallet style icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38h44c2.2,0 4,1.8 4,4v28c0,2.2 -1.8,4 -4,4H32c-2.2,0 -4,-1.8 -4,-4V42c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#008C45"
+        android:pathData="M32,46h44v6H32z" />
+    <!-- ETB coin -->
+    <path
+        android:fillColor="#FCDD09"
+        android:pathData="M54,62m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#008C45"
+        android:pathData="M50,58h8v2h-3v8h-2v-8h-3z" />
+</vector>

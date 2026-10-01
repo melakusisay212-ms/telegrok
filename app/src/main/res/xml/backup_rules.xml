@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude sensitive SMS-derived data from cloud backup -->
+    <exclude domain="database" path="tele_expense.db" />
+    <exclude domain="sharedpref" path="." />
+</full-backup-content>
